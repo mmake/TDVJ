@@ -1,2 +1,2 @@
 # TDVJ
-Touchdesigner VJ patches
+Touchdesigner patch for personal VJ stuff
