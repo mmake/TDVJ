@@ -1,5 +1,5 @@
 # TDVJ
 
-Touchdesigner .toxes and testbed "swaster" (as in swaeg master -patch).
+testbed for touchdesigner components & various VJ patches.
 
-Will maybe upload info how to use different components
+toxes == modular components
